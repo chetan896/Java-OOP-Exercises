@@ -10,7 +10,8 @@ public class PR11 {
 
         double feet = meters * 3.28084;
 
-        System.out.println(meters +" meters is equal to "+feet+" %.2f feet.");
+        System.out.println(meters +" meters is equal to "+feet+"feet.");
         S.close();
     }
+
 }
