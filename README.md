@@ -1,9 +1,3 @@
 # Java OOP Coding Exercises
 
-This repository contains Java programs for the Object-Oriented Programming subject.
-
-## Completed Sets
-- Set 1 – Completed
-
-## Language
-- Java
+This repository contains Java programming exercises for the Object-Oriented Programming (OOP) subject. All programs are solved as per the syllabus provided by the faculty and focus on core Java and OOP concepts.
